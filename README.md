@@ -17,6 +17,9 @@ The platform offers users the ability to save details about their properties, wh
 After logging in, the user has the possibility to upload a real estate ad. To provide a clear description, the client must complete all the corresponding fields (ad title, description, category, type, price, the period during which the ad is active). Depending on the user's preferences, certain details of the ad can be modified at any time.
 
 ## Questionnaire
+After logging in, the user has the possibility to complete a questionnaire to express their opinions about their experiences regarding the sale/rent of real estate. The questionnaire can be completed if:
+  - The user has purchased/rented a property and has not previously completed the questionnaire.
+  - The last time the user completed the questionnaire was at least six months ago, and they have purchased/rented another property.
 
 ## Save ad to favorite list
 
