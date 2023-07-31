@@ -10,4 +10,5 @@ Is a Java project built with JSP and JDBC. This component is aimed for the clien
 * Gallery section
 * Save ad to favorite list
 
-# The user has the possibility to search for real estate ads based on multiple criteria, for efficient searching. The search can be done by category (apartment, house, land), by type (for sale, for rent), area, price, etc.
+# Search real estate
+The user has the possibility to search for real estate ads based on multiple criteria, for efficient searching. The search can be done by category (apartment, house, land), by type (for sale, for rent), area, price, etc.
