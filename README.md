@@ -6,11 +6,9 @@ Is a Java project built with JSP and JDBC. This component is aimed for the clien
 * Search real estate ads
 * Upload/Modify real estate ad
 * Questionnaire
-* Advice section
-* Gallery section
 * Save ad to favorite list
 
-## Search real estate
+## Search real estate ads
 The user has the possibility to search for real estate ads based on multiple criteria, for efficient searching. The search can be done by category (apartment, house, land), by type (for sale, for rent), area, price, etc.
 
 ## Upload/Modify real estate ad
@@ -21,3 +19,7 @@ After logging in, the user has the possibility to upload a real estate ad. To pr
 ## Questionnaire
 
 ## Save ad to favorite list
+
+## Advice section
+
+## Gallery section
