@@ -12,7 +12,7 @@ Real Estate is a Java Web project built with JSP and JDBC. This component is aim
 The user can search for properties based on multiple criteria and add listings to their favorites list.
 ![image](https://github.com/dragan-monalisa/real-estate/assets/95368671/b816b4b5-e886-4fde-9331-62b33a707ec6)
 
-## Favorite list
+## Favorites list
 ![image](https://github.com/dragan-monalisa/real-estate/assets/95368671/1f6546a2-e083-4562-8463-1653cdcf0932)
 
 ## Upload/Modify real estate ad
